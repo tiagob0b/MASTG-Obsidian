@@ -1,7 +1,7 @@
 # MASTG-Obsidian
 Repositório com versão Markdown do MASTG - OWASP
 
-Essa repositório armazena uma versão em *markdown* do [OWASP WSTG](https://mas.owasp.org/MASTG/) para ser utilizada como uma referência rápida durante testes de invasão em aplicações *mobile* (Android/iOS) em tempo real.
+Essa repositório armazena uma versão em *markdown* do [OWASP MASTG](https://mas.owasp.org/MASTG/) para ser utilizada como uma referência rápida durante testes de invasão em aplicações *mobile* (Android/iOS) em tempo real.
 
 Referência:
 *OWASP MASTG v1.6.0-04f3310 (commit: 04f3310)    OWASP MASVS v2.0.0 (commit: f2e668b)*
